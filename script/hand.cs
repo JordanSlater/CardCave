@@ -1,7 +1,7 @@
 using Godot;
 using System;
 
-public partial class hand : Control
+public partial class Hand : Control
 {
 	[Export]
 	public PackedScene cardScene;

@@ -1,11 +1,11 @@
 [gd_scene load_steps=2 format=3 uid="uid://d0mlg3w7y6ie2"]
 
-[ext_resource type="Texture2D" uid="uid://b1dpm6niglq54" path="res://CuteCards_assets/CuteCards.png" id="1_r4e5a"]
+[ext_resource type="Texture2D" uid="uid://b1dpm6niglq54" path="res://CuteCards_assets/CuteCards.png" id="1_38p6r"]
 
 [node name="card" type="Node2D"]
 
 [node name="Sprite2D" type="Sprite2D" parent="."]
-texture = ExtResource("1_r4e5a")
+texture = ExtResource("1_38p6r")
 hframes = 15
 vframes = 4
 frame = 1
